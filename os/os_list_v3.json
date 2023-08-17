@@ -605,9 +605,9 @@
             "icon": "https://sourceforge.net/projects/parrotos-split/files/ParrotOS/download.png/download",
             "marketing_info": "",
             "nominal_size": 1800,
-            "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
+            "os_info": "Hi",
             "os_name": "ParrotOS Core",
-            "partitions_info": "https://sourceforge.net/projects/parrotos-split/files/ParrotOS/partitions.json/download",
+            "partitions_info": "https://raw.githubusercontent.com/Tman564wsDEV/ParrotOS-Splitt/main/partitions.json?token=GHSAT0AAAAAACGM2AETFJVUDJD2FCNGWOA6ZG5ZV4Q",
             "release_date": "2022-01-29",
             "supported_models": [
                 "Pi 4"
